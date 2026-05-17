@@ -1,27 +1,3 @@
-````markdown
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,25:302b63,50:24243e,75:00c6ff,100:0072ff&text=StoreRate&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Powered%20Store%20Rating%20Platform&descAlignY=58"/>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Full+Stack+MERN+Application;✨+Advanced+Role+Based+Authentication;⚡+Modern+Animated+UI+%2B+3D+Effects;🔥+PostgreSQL+%2B+JWT+Security;🌌+Futuristic+Dashboard+Experience"/>
-</p>
-
-<br/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&logo=github&color=00ffff"/>
-<img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&logo=github&color=ff00ff"/>
-<img src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&logo=github&color=yellow"/>
-<img src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=orange"/>
-<img src="https://img.shields.io/badge/Made%20With-❤️-red?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,typescript,postgres,express,vite,tailwind,github,vscode"/>
-
-</div>
-
----
 
 # 🌌 StoreRate — AI Powered Store Rating Platform
 
