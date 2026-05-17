@@ -309,9 +309,9 @@ Create Pull Request 🔥
 
 <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="120" style="border-radius:50%"/>
 
-# Abhiram MK
+# Atharav Vijay Shinde
 
-### 🚀 Full Stack Developer | AI/ML Enthusiast | MERN Developer
+### 🚀 Generative AI Engineer | Data Engineer | ML Engineer
 
 </div>
 
@@ -321,23 +321,21 @@ Create Pull Request 🔥
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/atharva680">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/atharva-shinde7474">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sbjitatharvas@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
+<a href="https://atharva-portfolio-betanine.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
-
-</div>
 
 ---
 
